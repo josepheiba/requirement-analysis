@@ -1,3 +1,20 @@
+## Acceptance Criteria
+
+Acceptance Criteria are specific, measurable conditions that a software product or feature must satisfy to be considered complete and acceptable by stakeholders. They serve as a checklist to verify that all requirements have been met and help ensure that the delivered solution aligns with user expectations.
+
+**Importance of Acceptance Criteria in Requirement Analysis:**
+- Provide clear, objective standards for feature completion
+- Facilitate communication between stakeholders, developers, and testers
+- Help prevent scope creep and misunderstandings
+- Serve as the basis for test cases and validation
+
+**Example: Acceptance Criteria for Checkout Feature in Booking Management System**
+
+1. The user can review their booking details before confirming checkout.
+2. The system displays the total price, including taxes and fees.
+3. The user can enter and save payment information securely.
+4. The system processes the payment and displays a confirmation message upon successful checkout.
+5. A confirmation email is sent to the user after successful payment.
 ## Use Case Diagrams
 
 Use Case Diagrams are a type of behavioral diagram defined by UML (Unified Modeling Language) that visually represent the interactions between users (actors) and the system. They help stakeholders understand the functional scope of the system and clarify requirements by illustrating how different users interact with various features.
